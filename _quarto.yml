@@ -5,8 +5,8 @@ project:
       port: 4001
 
 website:
-  title: "NixImagery.github.io"
-  site-url: https://NixImagery.github.io
+  title: "Straightbourne.github.io"
+  site-url: https://Straightbourne.github.io
   search: false
   favicon: favicon.ico
   page-footer: 
@@ -15,15 +15,20 @@ website:
   navbar:
     right:
       - icon: github
-        href: https://github.com/NixImagery
+        href: https://github.com/Straightbourne
       - icon: instagram
-        href: https://www.instagram.com/niximagery/
-      - icon: twitter
-        href: https://twitter.com/NixImagery
-  google-analytics: G-HRRCR9KGPW
+        href: https://www.instagram.com/Straightbourne/
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    include-in-header: 
+      text: |
+        <!-- Privacy-friendly analytics by Plausible -->
+        <script async src="https://stats.sptr.net/js/pa-Ysqpinv0Bh8jFdBY-o2OF.js"></script>
+        <script>
+          window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+          plausible.init()
+        </script>
