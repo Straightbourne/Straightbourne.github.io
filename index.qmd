@@ -1,5 +1,5 @@
 This is a collection of sites and repositories I publish and maintain for work, research, or personal interests. Published sites here are related to my [family tales](/family/), and the BBC's radio programme [Something Understood](/Something-Understood/).
 
-I am a retired Lecturer, now doctoral student at Edinburgh University. You can find my cv [here](https://github.com/NixImagery/CV/blob/master/cv.pdf) (pdf, 100kB).
+I am a retired Lecturer, now doctoral student at Edinburgh University. You can find my cv [here](https://github.com/Straightbourne/CV/blob/master/cv.pdf) (pdf, 100kB).
 
-This site, like many others here, is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>, or take a look at my portal at <https://cullaloe.net>.
+This site, like many others here, is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>, or take a look at my portal at <https://straightbounre.uk>.
