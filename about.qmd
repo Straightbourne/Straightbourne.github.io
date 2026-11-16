@@ -1,0 +1,28 @@
+---
+about:
+  id: sb-about
+  template: jolla
+---
+
+
+# About *Straightbourne*
+
+::: {style="background-color: rgba(0, 0, 0, 0.7); padding: 20px;"}
+
+**Straightbourne** is a portmanteau of two family names.  
+
+**Straight**, from the West Virginia family line that includes [Jacob Straight](https://straightbourne.github.io/family/Hood/1741-06-23-Jacob-Straight.html), father of my [grandfather](https://straightbourne.github.io/family/Hood/1903-04-08-Harry-S-Hood.html)'s grandfather's grandfather, who in October 1786 was killed and scalped for British bounty in Monongalia County, WV by Shawnee.  
+
+**Bourne** is from the London line of my great-grandfather [George Alfred Bourne](https://straightbourne.github.io/family/Bourne/1885-08-13-George-Alfred-Bourne.html) who walked with his barrow to help build Letchworth Garden City, the first of its design, separating industrial from residential spaces in order to improve the quality of life for its citizens. I grew up in Letchworth.
+
+<!-- ---
+
+*[straightbourne.uk](https://straightbourne.uk) is to be my internet home domain once my research is concluded and I return to sanity, seeking new adventures. The links will take you to what's current.* -->
+
+
+:::   
+
+---
+Nick Hood  
+@straightbourne  
+**Scotland**  

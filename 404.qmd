@@ -1,0 +1,7 @@
+---
+title: 404... not found
+---
+
+Well, that's going to be a bit of a problem, I am afraid. Whatever it was you asked for, it isn't here, or I can not find it just now. Sorry if it was one of my own links you were following.
+
+[Go home](/index.qmd)

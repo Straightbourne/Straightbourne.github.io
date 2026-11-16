@@ -1,0 +1,37 @@
+meta:
+  name: Quiet Editorial
+  link: https://straightbourne.uk
+
+color:
+  palette:
+    paper: "#2A2C28"
+    ink: "#F5F1E8"
+    slate: "#D8D2C7"
+    smoke: "#B1ABA0"
+    olive: "#C0C8B2"
+    line: "#4A4D47"
+  background: paper
+  foreground: ink
+  primary: olive
+  secondary: slate
+  tertiary: smoke
+  light: ink
+  dark: paper
+  link: "#DCE6BF"
+
+typography:
+  fonts:
+    - family: "system-ui"
+      source: system
+    - family: "Georgia"
+      source: system
+    - family: "ui-monospace"
+      source: system
+  base:
+    family: "system-ui"
+  headings:
+    family: "Georgia"
+    weight: 600
+  monospace: "ui-monospace"
+  link:
+    decoration: underline

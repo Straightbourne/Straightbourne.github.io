@@ -1,5 +1,62 @@
-This is a collection of sites and repositories I publish and maintain for work, research, or personal interests. Published sites here are related to my [family tales](/family/), and the BBC's radio programme [Something Understood](/Something-Understood/).
+---
+title: Nick Hood
+image: images/nick.jpg
+about:
+  id: sb-about
+  template: trestles
+  image-shape: round
+  links:
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://www.linkedin.com/in/straightbourne/
+    - icon: github
+      text: Github
+      href: https://github.com/straightbourne
+    - text: "{{< fa book >}} Chronicles"
+      href: /chronicles
+    - text: "{{< fa globe >}} sptr.net"
+      href: https://sptr.net
+    - text: "{{< fa brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/straightbourne.uk
+    # - icon: instagram
+    #   text: Insta
+    #   href: https://www.instagram.com/straightbourne/
+# listing:
+#   id: lst-desktop
+#   type: grid
+#   contents: 
+#     - chronicles
+#     - supervision-27.qmd
+#     - 00-workspace.qmd
+#   grid-columns: 1
+#   fields: [title, description]
+#   sort: false
+#   feed: false
+---
 
-I am a retired Lecturer, now doctoral student at Edinburgh University. You can find my cv [here](https://github.com/Straightbourne/CV/blob/master/cv.pdf) (pdf, 100kB).
+:::{#sb-about}
 
-This site, like many others here, is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>, or take a look at my portal at <https://straightbourne.uk>.
+::: {style="background-color: rgba(0, 0, 0, 0.7); padding: 20px;"}
+# @straightbourne  
+
+I am a writer and researcher based in Scotland, currently completing a PhD at The University of Edinburgh.
+
+---
+
+If we are defined by our career trajectories, mine includes: 
+
+* REME soldier (Avionics)
+* Systems Engineer (Flight Simulation)
+* Project Manager (Simulation and Defence)
+* Solutions Developer (Health and Tourism)
+* Teacher (Physics and Mathematics)
+* Lecturer (Initial Teacher Education)
+
+You can read more about me and my research at [sptr.net](https://sptr.net).
+
+:::
+
+:::
+
+<!-- ::: {#lst-desktop}
+::: -->

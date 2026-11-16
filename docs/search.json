@@ -1,9 +1,16 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Straightbourne",
+    "section": "",
+    "text": "About Straightbourne\n\nStraightbourne is a portmanteau of two family names.\nStraight, from the West Virginia family line that includes Jacob Straight, father of my grandfather’s grandfather’s grandfather, who in October 1786 was killed and scalped for British bounty in Monongalia County, WV by Shawnee.\nBourne is from the London line of my great-grandfather George Alfred Bourne who walked with his barrow to help build Letchworth Garden City, the first of its design, separating industrial from residential spaces in order to improve the quality of life for its citizens. I grew up in Letchworth.\n\n\n\nNick Hood\n@straightbourne\nScotland"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Straightbourne.github.io",
+    "title": "Nick Hood",
     "section": "",
-    "text": "This is a collection of sites and repositories I publish and maintain for work, research, or personal interests. Published sites here are related to my family tales, and the BBC’s radio programme Something Understood.\nI am a retired Lecturer, now doctoral student at Edinburgh University. You can find my cv here (pdf, 100kB).\nThis site, like many others here, is a Quarto website. To learn more about Quarto websites visit https://quarto.org/docs/websites, or take a look at my portal at https://straightbourne.uk."
+    "text": "Github\n  \n  \n      Chronicles\n  \n  \n      sptr.net\n  \n  \n      Bluesky\n  \n\n  \n  \n\n@straightbourne\nI am a writer and researcher based in Scotland, currently completing a PhD at The University of Edinburgh.\n\nIf we are defined by our career trajectories, mine includes:\n\nREME soldier (Avionics)\nSystems Engineer (Flight Simulation)\nProject Manager (Simulation and Defence)\nSolutions Developer (Health and Tourism)\nTeacher (Physics and Mathematics)\nLecturer (Initial Teacher Education)\n\nYou can read more about me and my research at sptr.net."
   }
 ]

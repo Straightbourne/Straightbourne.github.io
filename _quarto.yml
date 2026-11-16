@@ -1,29 +1,38 @@
 project:
   type: website
   output-dir: docs
-  preview:
-      port: 4001
 
+date-format: "Do MMMM YYYY"  
 website:
-  title: "Straightbourne.github.io"
-  site-url: https://Straightbourne.github.io
+  title: "straightbourne.github.io"
+  twitter-card: true
+  open-graph: true
+  site-url: https://straightbourne.github.io
   search: false
   favicon: favicon.ico
   page-footer: 
     left: 
+      - text: "{{< fa house >}} *home*"
+        href: /
+      - text: "{{< fa info >}} *about*"
+        href: about.qmd
+    center:
       - text: Copyright &copy; Nick Hood
-  navbar:
-    right:
+    right: 
+      # - text: "{{< fa book >}} Chronicles"
+      #   href: /chronicles
+      # - text: "{{< fa globe >}} sptr.net"
+      #   href: https://sptr.net
+      # - text: "{{< fa 500px >}} 500px"
+      #   href: https://500px.com/p/straightbourne
       - icon: github
-        href: https://github.com/Straightbourne
-      - icon: instagram
-        href: https://www.instagram.com/Straightbourne/
+        href: https://github.com/straightbourne
 
 format:
   html:
-    theme: cosmo
+    # respect-user-color-scheme: true
+    page-layout: full
     css: styles.css
-    toc: true
     include-in-header: 
       text: |
         <!-- Privacy-friendly analytics by Plausible -->
@@ -32,3 +41,8 @@ format:
           window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
           plausible.init()
         </script>
+
+
+brand: quiet-editorial-dark.yml
+  # light: quiet-editorial-light.yml
+  # dark: quiet-editorial-dark.yml

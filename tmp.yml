@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+
+date-format: "Do MMMM YYYY"  
+website:
+  title: "Straightbourne"
+  favicon: images/anarchy.gif
+  twitter-card: true
+  open-graph: true
+  site-url: https://straightbourne.uk
+
+  page-footer: 
+    left: 
+      - text: "{{< fa house >}} *home*"
+        href: /
+      - text: "{{< fa info >}} *about*"
+        href: about.qmd
+    center: "&copy; *all rights reserved*" 
+    right: 
+      # - text: "{{< fa book >}} Chronicles"
+      #   href: /chronicles
+      # - text: "{{< fa globe >}} sptr.net"
+      #   href: https://sptr.net
+      # - text: "{{< fa 500px >}} 500px"
+      #   href: https://500px.com/p/straightbourne
+      - icon: github
+        href: https://github.com/straightbourne
+
+format:
+  html:
+    # respect-user-color-scheme: true
+    page-layout: full
+    css: styles.css
+    include-in-header: 
+      text: |
+        <!-- Privacy-friendly analytics by Plausible -->
+        <script async src="https://stats.sptr.net/js/pa--L_06V204N1nBJV_X5vJg.js"></script>
+        <script>
+          window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+          plausible.init()
+        </script>
+
+brand: quiet-editorial-dark.yml
+  # light: quiet-editorial-light.yml
+  # dark: quiet-editorial-dark.yml
