@@ -12,8 +12,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com/straightbourne
-    - text: "{{< fa globe >}} sptr.net"
-      href: https://sptr.net
+    # - text: "{{< fa globe >}} sptr.net"
+    #   href: https://sptr.net
 ---
 
 :::{#sb-about}
@@ -34,7 +34,7 @@ If we are defined by our career trajectories, mine includes:
 * Teacher (Physics and Mathematics)
 * Lecturer (Initial Teacher Education)
 
-You can read more about me and my research at [sptr.net](https://sptr.net).
+<!-- You can read more about me and my research at [sptr.net](https://sptr.net). -->
 
 :::
 
