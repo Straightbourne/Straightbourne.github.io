@@ -1,6 +1,6 @@
 ---
 title: Nick Hood
-image: images/nick.jpg
+image: images/nick-sm.jpg
 about:
   id: sb-about
   template: trestles
