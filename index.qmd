@@ -6,14 +6,14 @@ about:
   template: trestles
   image-shape: round
   links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/straightbourne/
     - icon: github
-      text: Github
       href: https://github.com/straightbourne
-    - text: "{{< fa globe >}} sptr.net"
-      href: https://sptr.net
+    - icon: linkedin
+      href: https://www.linkedin.com/in/straightbourne/
+    - icon: substack
+      href: https://straightbourne.substack.com/
+    - text: "{{< fa brands bluesky >}}"
+      href: https://bsky.app/profile/straightbourne.uk
 ---
 
 :::{#sb-about}
